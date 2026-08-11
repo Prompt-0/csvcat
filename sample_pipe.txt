@@ -1,0 +1,6 @@
+sku|product|category|price|stock
+SKU-001|Gaming Laptop|Electronics|1299.99|15
+SKU-002|Wireless Mouse|Electronics|29.95|150
+SKU-003|Ergonomic Chair|Furniture|349.00|42
+SKU-004|Coffee Mug|Kitchen|12.50|200
+SKU-005|Mechanical Keyboard|Electronics|89.99|85

@@ -1,0 +1,9 @@
+id,name,department,salary,active,hired_date
+101,Alice Smith,Engineering,95000,true,2021-03-15
+102,Bob Jones,Marketing,62000,false,2019-07-22
+103,Charlie Brown,Engineering,110000,true,2018-11-01
+104,Diana Prince,Design,85000,true,2022-01-10
+105,Evan Wright,Sales,54000,true,2023-05-18
+106,Fiona Gallagher,Engineering,102000,true,2020-09-05
+107,George Clark,Marketing,68000,false,2021-12-12
+108,Hannah Abbott,Design,79000,true,2022-08-30
