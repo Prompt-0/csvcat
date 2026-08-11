@@ -112,7 +112,7 @@ impl QueryEngine {
             let col_name = subparts[0];
             let desc = subparts
                 .get(1)
-                .map_or(false, |&s| s.eq_ignore_ascii_case("desc"));
+                .is_some_and(|&s| s.eq_ignore_ascii_case("desc"));
 
             let col_idx = rs
                 .headers
