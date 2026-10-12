@@ -4,7 +4,7 @@ use std::path::PathBuf;
 #[derive(Parser, Debug, Clone)]
 #[command(
     name = "csvcat",
-    author = "Antigravity AI <agy@deepmind.com>",
+    author = "Ritesh",
     version = "0.1.0",
     about = "Modern Terminal CSV/TSV Table Viewer, Data Profiler, and Interactive TUI",
     long_about = "csvcat formats, filters, profiles, and browses CSV/TSV data directly in your terminal with rich ANSI coloring, auto-delimiter detection, gzip support, and interactive TUI navigation."

@@ -2,7 +2,7 @@
 name = "csvcat"
 version = "0.1.0"
 edition = "2021"
-authors = ["Antigravity AI <agy@deepmind.com>"]
+authors = ["Ritesh"]
 description = "Modern Terminal CSV/TSV Table Viewer, Data Profiler, and Interactive TUI"
 
 [dependencies]
